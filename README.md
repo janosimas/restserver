@@ -2,6 +2,10 @@
 
 This is a simple rest server to schedule and print messages in the console.
 
+## Running
+
+In this first test version it's only running in jetty.
+
 ## API
 
 - Add a Job
